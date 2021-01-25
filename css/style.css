@@ -1,0 +1,17 @@
+/* header-background: #FFFFFF;
+   hero-background and footer-background: #2F303A;
+   section-background: #E5E5E5;
+   team-background: #F5F4FA;
+   accent-color: #2196F3; 
+   link-color and title: #212121;
+   contacts-color and main text: #757575;
+   footer text: rgba(255, 255, 255, 0.6)*/
+
+:root {
+  --primary-text-color: #757575;
+  --additional-text-color: #212121;
+  --accent-color: #2196f3;
+  --primary-bg-color: #2f303a;
+  --primary-white-color: #ffffff;
+  --additional-bg-color: #f5f4fa;
+}
